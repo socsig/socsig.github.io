@@ -45,4 +45,3 @@ Examples of such models that we have built include:
 - Real-options valuation model of a possible acquisition target for a federal contractor
 - Financial market microstructure-based model to understand tail risk and anomalous volatility
 - Game-theoretic [election interference model](https://arxiv.org/pdf/1908.02793.pdf) to find optimal strategies for countering election meddling
-- 
