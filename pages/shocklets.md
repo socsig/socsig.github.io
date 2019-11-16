@@ -10,6 +10,11 @@ time series data, find period of time in which they displayed anomalous behavior
 
 Please contact <star@sociotechnicalsignals.com> for more information.
 
+### Social media
+
+The mathematical machinery underlying this algorithm - the so-called "shocklet transform" - 
+got some love on Twitter
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The shocklet transform: A decomposition method for the identification of local, mechanism-driven dynamics in sociotechnical time series<br><br>“filter high-dimensional data and automate the extraction of anomalous behavior”<br><br> <a href="https://t.co/c5C59Q4utU">https://t.co/c5C59Q4utU</a> <a href="https://t.co/XhGk3P8htb">pic.twitter.com/XhGk3P8htb</a></p>&mdash; Alessandro Vespignani (@alexvespi) <a href="https://twitter.com/alexvespi/status/1144515989373116416?ref_src=twsrc%5Etfw">June 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Discrete Shocklet Transform&quot;, very cool work regarding identification of patterns and local dynamics on frequency-dependent time series. <a href="https://twitter.com/uvmcomplexity?ref_src=twsrc%5Etfw">@uvmcomplexity</a> <a href="https://t.co/NJdPuwYRKO">https://t.co/NJdPuwYRKO</a></p>&mdash; Alfredo González-Espinoza (@Spiralizing) <a href="https://twitter.com/Spiralizing/status/1147213062622945280?ref_src=twsrc%5Etfw">July 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
