@@ -23,6 +23,11 @@ deep belief that data can lead us to truth - we just need to use the right tools
 - Learn about [our existing algorithms](pages/algorithms.html)
 - Browse our [statistical and analytical consulting services](pages/statistical_consulting.html)
 
+### Our people
+
+- [David Dewhurst](people/dewhurst.html), Founder
+- [John H. Ring IV](people/ring.html), Research Scientist
+
 ### Contact
 
 Please contact <inquiries@sociotechnicalsignals.com> for more information and a personal follow-up.
