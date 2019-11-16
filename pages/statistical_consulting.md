@@ -11,6 +11,8 @@ At the beginning of any relationship, we work closely with you to incorporate yo
 and often subjective expertise into our models.
 In other words, we're data-driven, but we know that experience is invaluable.
 
+For more information, please contact us at <consulting@sociotechnicalsignals.com>.
+
 ### Statistical methodology 
 - Multivariate / cross-sectional data analysis with both long (many observations) and wide (many predictors) tables
 - Time series analysis and prediction, including automated model selection and dynamic prediction

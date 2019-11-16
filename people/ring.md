@@ -12,3 +12,7 @@ financial market microstructure.
 In the past, John worked at the [LORD Corporation](https://www.lord.com/).
 He is currently a PhD candidate at the University of Vermont, 
 where he also obtained the MS and BS degrees in computer science.
+
+### Contact
+
+You can contact John directly at <jhriv@sociotechnicalsignals.com>.
