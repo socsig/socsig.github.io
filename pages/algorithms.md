@@ -11,8 +11,8 @@ and prediction. In addition, we develop agent-based models that can be invaluabl
 
 
 ### Off-the-shelf solutions
-- [Functional time series anomaly detection](pages/shocklets.html)
-- [Agent-based market microstructure models](pages/fin_abm.html)
+- [Functional time series anomaly detection](shocklets.html)
+- [Agent-based market microstructure models](fin_abm.html)
 
 ### Bespoke algorithms
 We offer a wide range of consulting services and are able to create custom signal-processing and information extracttion algorithms for high-dimensional __time series__, panel, and __natural language__ data. 
