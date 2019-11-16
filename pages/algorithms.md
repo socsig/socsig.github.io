@@ -16,5 +16,5 @@ and prediction. In addition, we develop agent-based models that can be invaluabl
 
 ### Bespoke algorithms
 We offer a wide range of consulting services and are able to create custom signal-processing and information extracttion algorithms for high-dimensional __time series__, panel, and __natural language__ data. 
-Visit [our consulting page](pages/statistical_consulting.html) for a technical overview of these services, or 
+Visit [our consulting page](statistical_consulting.html) for a technical overview of these services, or 
 contact us at <consulting@sociotechnicalsignals.com> for a personal follow-up.
