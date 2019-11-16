@@ -14,4 +14,4 @@ on topics ranging from time series and nonequilibrium statistical mechanics to s
 In the past, David worked at the [MITRE Corporation](https://www.mitre.org/) and at a variety of economic policy organizations. He is a PhD candidate at the [University of Vermont](http://vermontcomplexsystems.org/),
 where he obtained an MS in mathematics and BA in economics, mathematics, and political science.
 
-![David Dewhurst](../_photos/dave-front-board.jpg "David Dewhurst")
+![David Dewhurst](../photos/dave-front-board.jpg "David Dewhurst")
