@@ -14,4 +14,4 @@ Previously, Joshua co-founded a company that developed IoT solutions for small-s
 
 You can contact Joshua directly at <jrm@sociotechnicalsignals.com> or view his [LinkedIn](https://www.linkedin.com/in/joshminot/).
 
-![Joshua Minott](../photos/josh.jpg "Joshua Minot") 
+![Joshua Minot](../photos/josh.jpg "Joshua Minot") 
