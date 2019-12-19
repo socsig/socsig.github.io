@@ -32,10 +32,23 @@ Please contact <star@sociotechnicalsignals.com> for more information.
 
 ### Technical overview
 
-Since pictures are worth \\( N \geq 1000 \\) words...
+Since pictures are worth \\(\geq 1000 \\) words...
 
 ![The STAR algorithm](../documents/shocklets/star.png "The STAR algorithm")
 
++ We first search for pieces of the time series that look like little kernel archetypes: 
+maybe like rapid ramp-ups followed by equally rapid cool-down periods---what we term "shocks" and "cusps", 
+or discontinuous changes to new levels (in which case STAR just acts like a changepoint detection algorithm).
++ We then aggregate all of the information collected in the previous step into new time series. We then threshold
+thesee  time series to extract windows of anomalous behavior.
++ Weighting each anomaly windows by the change in the time series over the duration of each window (or by some other 
+custom weighting function), we sort the set of time series at each point in time by the window weights.
+This defines a univariate Markov chain (panel E above) that gives a straightforward narrative about which time series is 
+most anomalous at each time step.
+
+This process can be generalized so that we provide a summary of the top \\(r\\) most anomalous time series 
+at each time step.
+If you want the full technical details, you should [read the paper](../documents/shocklets/star.pdf).
 
 ### Social media
 
