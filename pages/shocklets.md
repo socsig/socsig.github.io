@@ -15,9 +15,13 @@ time series data, find period of time in which they displayed anomalous behavior
 Our algorithm compares favorably with Twitter's anomaly detection algorithm for uncovering spiky dynamics over
 short time intervals, but unlike this and other anomaly detection algorithms, 
 STAR can pull out long-term, shock- and cusp-like dynamics.
-These dynamics often correspond to important social and economic movements, such as the Occupy Wall Street protests of 2010 or Israeli-Palestinian conflict of 2014:
+These dynamics often correspond to important social and economic movements, such as the Occupy Wall Street protests of 2010...
 
-![Words surrounding the Occupy Wall Street protests](../documents/shocklets/occupy-wall-street-words.png "ows-words")  ![Words surrounding the Israel - Gaza conflict](../documents/shocklets/israel-palestine-words.png "ispal-words")
+![Words surrounding the Occupy Wall Street protests](../documents/shocklets/occupy-wall-street-words.png "ows-words") 
+
+...or Israeli-Gaza conflict of 2014...
+
+![Words surrounding the Israel - Gaza conflict](../documents/shocklets/israel-palestine-words.png "ispal-words")
 
 Each panel shows the time series of that word's popularity on Twitter.
 Red highlights Twitter's anomaly detection algorithm indicators, while STAR-indicated anomalies are in blue.
