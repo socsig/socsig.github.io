@@ -26,8 +26,6 @@ deep belief that data can lead us to truth - we just need to use the right tools
 ### Our people
 
 - [David Dewhurst](people/dewhurst.html), Founder
-- [Thayer Alshaabi](people/alshaabi.html), Research Scientist
-- [Joshua Minot](people/minot.html), Research Scientist
 - [John H. Ring IV](people/ring.html), Research Scientist
 
 ### Contact
